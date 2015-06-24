@@ -5,6 +5,10 @@ public class PraGit {
 		System.out.println("1");
 		
 		
+		
+		
+		
+		
 	}
 
 }
